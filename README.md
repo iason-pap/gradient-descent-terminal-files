@@ -9,3 +9,14 @@ I will be adding more terminals, logs, and chat entries as time goes on, accordi
 ![default amber](https://github.com/iason-pap/gradient-descent-terminal-files/blob/main/example-pics/default_amber.png)
 ![vintage](https://github.com/iason-pap/gradient-descent-terminal-files/blob/main/example-pics/vintage.png)
 ![futuristic](https://github.com/iason-pap/gradient-descent-terminal-files/blob/main/example-pics/futuristic.png)
+
+# TODO
+
+- Maintenance Terminal 32A
+- Brainscan DB Terminal 47E
+- Seminar Room 52E
+
+## Maybes
+- Diagnostic Lab Terminal 34B
+- Silus Control Terminal 41H
+- Post Takeover Communication Logs (Insights into the first Divers/Troubleshooters)
