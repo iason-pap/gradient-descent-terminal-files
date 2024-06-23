@@ -1,2 +1,2 @@
-Decrypt documents:
+Decrypt secured documents:
 gpg -d <document-name>
