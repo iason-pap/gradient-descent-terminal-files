@@ -17,7 +17,8 @@ I will be adding more terminals, logs, and chat entries as time goes on, accordi
 ## Reception Terminal (22B)
 If the players successfully manage to hack/jury-rig the terminal, they can only manage to recover the files of a single user. The brief story of Emma Raine's (Empl.ID 01793860) chat logs and emails gives the players an overview of Monarch's takeover (inefficient shift scheduling for human workers in order to plead for more automation in front of shareholders, introduction of synth workers, introduction of brainscans).
 
-> Wardens Notes
+> Wardens Notes:
+>
 > Depending on the tone you want to go with, you can in-/exclude the silly-colleagues directory. It contains some adapted logs from the game Hacknet, which made me chuckle.
 >
 > The mail directory contains a secret message from the underground union. If you want, you can let your players manually import the public key via gpg and let them decrypt the message on their own (disguised as solitaire-tournament.gpg), or you can skip this and use the clear text version (union\_newsletter\_23.mail).
