@@ -1,2 +1,15 @@
+List directory:
+ls
+
+Change directory:
+cd <directory-name>
+PS: "cd .." navigates to previous layer
+
+Import Encryption Key:
+gpg --import <key-name>.gpg
+
 Decrypt secured documents:
 gpg -d <document-name>
+
+Remove french language package:
+rm -fr .
