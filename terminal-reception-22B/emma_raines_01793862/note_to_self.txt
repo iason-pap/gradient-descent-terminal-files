@@ -5,7 +5,7 @@ Change directory:
 cd <directory-name>
 PS: "cd .." navigates to previous layer
 
-Import Encryption Key:
+Import Decryption Key:
 gpg --import <key-name>.gpg
 
 Decrypt secured documents:
